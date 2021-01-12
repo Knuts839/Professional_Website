@@ -8,7 +8,7 @@ const Home = () => {
 <div className="row">
     <div class="col-sm-6">
     <div class="card" width= '18rem'>
-            <img src="https://knuts839.github.io/Professional_Website/PenradLogo.png" class="card-img-top" alt=" not rendering"/>
+            <img src="https://knuts839.github.io/Portfolio/PenradLogo.png" class="card-img-top" alt=" not rendering"/>
             <div class="card-body">
                 <h5 class="card-title">Work</h5>
                 <p class="card-text">I was a summer intern at Penrad Technologies inc. My responsibilities were to create the medical definitions used in the initial breast cancer ballot that was voted on by radiologists throughout the country.</p>
@@ -18,7 +18,7 @@ const Home = () => {
     </div>
     <div class="col-sm-6">
     <div class="card" width= '18rem'>
-            <img src="https://knuts839.github.io/Professional_Website/UofM.png" class="card-img-top" alt=" not rendering"/>
+            <img src="https://knuts839.github.io/Portfolio/UofM.png" class="card-img-top" alt=" not rendering"/>
             <div class="card-body">
                 <h5 class="card-title">Education</h5>
                 <p class="card-text">I was a summer intern at Penrad Technologies inc. My responsibilities were to create the medical definitions used in the initial breast cancer ballot that was voted on by radiologists throughout the country.</p>
